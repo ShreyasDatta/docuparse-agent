@@ -1,6 +1,6 @@
 # 📄 DocuParse Agent (Legal eDiscovery Prototype)
 
-> **Status: 🚧 Active Development (Expected Completion: [Insert Date 3 Days From Now])**
+> **Status: 🚧 Active Development (Expected Completion: [16/04/2026])**
 
 ## 🎯 Overview
 DocuParse is a lightweight, agentic document review pipeline designed to simulate legal eDiscovery workflows. Rather than relying on zero-shot prompting, this platform utilizes a multi-step orchestration approach powered by **Claude 3.5 Sonnet** to extract, classify, and flag high-risk entities within unstructured legal text.
